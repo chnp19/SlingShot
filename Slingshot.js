@@ -1,5 +1,6 @@
 class Slingshot{
-    constructor(bodyA, pointB){
+//changed something
+   constructor(bodyA, pointB){
         var options = {
             bodyA: bodyA,
             pointB: pointB,
